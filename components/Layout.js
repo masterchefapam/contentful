@@ -19,7 +19,7 @@ function Layout({ children }) {
                 
             </div>
             <footer className="bg-black h-20 inset-x-0 bottom-0 text-white items-center 
-                 fixed flex items-center justify-center">
+                 fixed flex  justify-center">
                 <p>Copyright 2021 Just Add Marmite</p>
             </footer>
         </div>
