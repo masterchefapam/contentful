@@ -34,7 +34,7 @@ import { documentToReactComponents } from '@contentful/rich-text-react-renderer'
 
       return {
           props: { recipe: items[0]},
-          revalidate: 2
+          revalidate: 1
       }
   }
 
